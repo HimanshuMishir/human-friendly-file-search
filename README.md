@@ -5,6 +5,8 @@ The Human-Friendly File Search Tool is a Linux-based application that lets users
 
 ```bash
 "Find workflow files under 100KB modified last week"
+"Large video files in Downloads folder"
+"Python files modified in 2023"
 ```
 
 This project leverages Go and text-processing libraries to make file searches intuitive and user-friendly, eliminating the need for complex command-line syntax.
